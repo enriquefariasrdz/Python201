@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 #defines a function that calculates the factorial
  
 def factorial(n):

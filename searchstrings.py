@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 f = open('TEST.txt', 'r')
 
 searchstrings = ('proton', 'neutron', 'isotope', 'india')

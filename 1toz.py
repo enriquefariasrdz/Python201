@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import string
 for x, y in enumerate(string.ascii_lowercase, 1):
     print(x, y)
@@ -20,10 +21,10 @@ for x, y in ( (x+1, chr(ord('a')+x)) for x in range(26) ):
     print( "The letter", y, "has the position number: ", x )
     
 import string
-	for x, y in enumerate(string.ascii_lowercase, 1):
+for x, y in enumerate(string.ascii_lowercase, 1):
     print("The letter", y, "has the position number: ", x )
 	
-	import string
-	for x, y in enumerate(string.ascii_uppercase, 1):
+import string
+for x, y in enumerate(string.ascii_uppercase, 1):
     print("The letter", y, "has the position number: ", x )
     

@@ -1,10 +1,11 @@
+#!/usr/bin/env python
 #!/usr/bin/python3
 
 #-*-coding: utf-8 -*-
 
      
 
-ArchivoALeer = open( 'C:/NuevoArchivo.txt', 'r', encoding='utf-8' )
+ArchivoALeer = open( './NuevoArchivo.txt', 'r')
 
      
 

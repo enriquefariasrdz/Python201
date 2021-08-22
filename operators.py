@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 #!/usr/bin/python
 
 a = 21
